@@ -40,12 +40,12 @@ class Home extends StatelessWidget {
             backgroundColor: Colors.transparent,
             elevation: 0,
             leading: Icon(Icons.list, color: Colors.purpleAccent),
-            title: Center(
-              child: Text(
+            title:
+              Text(
                 'StartBlok Actief',
                 style: TextStyle(color: Colors.deepPurple, fontWeight: FontWeight.bold),
               ),
-            ),
+
 
 
 
