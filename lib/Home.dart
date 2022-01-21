@@ -93,7 +93,7 @@ class UpperPart extends StatelessWidget {
                   leading: Icon(Icons.search, color: Colors.purpleAccent),
                   title: TextField(
                     decoration: InputDecoration(
-                        hintText: "Search Here",
+                        hintText: "          Search Here",
                         border: InputBorder.none),
                   ),
                   trailing: Icon(
