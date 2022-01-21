@@ -42,16 +42,9 @@ class Home extends StatelessWidget {
             leading: Icon(Icons.list, color: Colors.purpleAccent),
             title:
               Text(
-                'StartBlok Actief',
+                '        StartBlok Actief',
                 style: TextStyle(color: Colors.deepPurple, fontWeight: FontWeight.bold),
               ),
-
-
-
-
-
-
-
           ),
           body: ListView(
             children: [
