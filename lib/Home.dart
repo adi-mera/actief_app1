@@ -42,7 +42,7 @@ class Home extends StatelessWidget {
             leading: Icon(Icons.list, color: Colors.purpleAccent),
             title:
               Text(
-                'StartBlok Actief1',
+                'StartBlok Actief2',
                 style: TextStyle(color: Colors.deepPurple, fontWeight: FontWeight.bold),
               ),
           ),
